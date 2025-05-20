@@ -43,4 +43,45 @@ table {
     text-align: center;
 }
 
+h2 {
+    color: rgb(73, 73, 187);
+    font-size: 35px;
+    }
+    h3 {
+        color: darkolivegreen;
+    }
+    
+    .line {
+        height: 2px;
+        background-color: blueviolet;
+    }
+     tr {
+        background-color: yellow;
+        color: rgb(2, 2, 94);
+    }
+
+    .time {
+        background-color: aquamarine;
+    }
+
+    h4 {
+        color: rgb(3, 39, 19);
+    }
+    
+    .list {
+        background-color: chartreuse;
+        color: rgb(177, 17, 84);
+    }
+    h5 {
+        color: rgb(82, 131, 8);
+    }
+    .h5 {
+        background-color: aqua;
+    }
+
+
+    h6 {
+        color: orangered;
+    }
+
 
